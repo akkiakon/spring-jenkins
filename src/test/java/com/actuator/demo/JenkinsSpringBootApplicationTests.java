@@ -12,6 +12,7 @@ class JenkinsSpringBootApplicationTests {
 	
 	public static Logger logger = LoggerFactory.getLogger(JenkinsSpringBootApplication.class);
 
+// hello world
 	@Test
 	void contextLoads() {
 		logger.info("Application executed ........");
